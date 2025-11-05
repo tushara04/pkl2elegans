@@ -1,0 +1,3 @@
+1. the commit made at 4:03 AM on 6th november was supposed to have the following git message:
+
+`git commit -m "updated the com_vs_time file" -m "here, while i fixed all the problems, one of them was that when two worms got too close, they would combine into one in the binary image due to which their distance is not measured. so i tried to do 2*area -- but still i can't have a line drawn because the code only recognizes one body. for the next commit, i will remove this update and just ignore these data points where they combine. for future updates, either distinguish the two worms or figure out some other way"`
